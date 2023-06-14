@@ -1,0 +1,11 @@
+threshold:21
+slope:0.5
+intercept:34.5
+axis_line:168
+laser_dist:14
+pltfrm_dist:22
+top:116
+bottom:240
+left:117
+right:225
+filename:/home/ale/Desktop/square
